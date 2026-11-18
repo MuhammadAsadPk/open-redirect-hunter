@@ -1,0 +1,15 @@
+# Build output
+build/
+*.class
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+*.iml
+.vscode/
+
+# Local deps
+montoya-api.jar
+target/
+lib/
